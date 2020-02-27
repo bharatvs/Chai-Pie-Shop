@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "twitter-bootsrap@3.3.7",
+      "destination": "wwwroot/lib/bootsrap"
+    }
+  ]
+}
