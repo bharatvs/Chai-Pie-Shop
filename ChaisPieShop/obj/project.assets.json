@@ -8238,11 +8238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ChaisPieShop\\ChaisPieShop\\ChaisPieShop.csproj",
+      "projectUniqueName": "C:\\Chaipieshop2\\Chai-Pie-Shop\\ChaisPieShop\\ChaisPieShop.csproj",
       "projectName": "ChaisPieShop",
-      "projectPath": "C:\\ChaisPieShop\\ChaisPieShop\\ChaisPieShop.csproj",
+      "projectPath": "C:\\Chaipieshop2\\Chai-Pie-Shop\\ChaisPieShop\\ChaisPieShop.csproj",
       "packagesPath": "C:\\Users\\b.k.veerabhadrappa\\.nuget\\packages\\",
-      "outputPath": "C:\\ChaisPieShop\\ChaisPieShop\\obj\\",
+      "outputPath": "C:\\Chaipieshop2\\Chai-Pie-Shop\\ChaisPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b.k.veerabhadrappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
